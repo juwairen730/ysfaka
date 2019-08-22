@@ -1,0 +1,8 @@
+
+php版本：大于或等于5.6
+
+后台入口：/ysmd
+
+必须设置伪静态！
+
+具体说明请访问：https://bbs.phpke.cn/?thread-1.htm
